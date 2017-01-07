@@ -1,0 +1,30 @@
+ - Pressing enter/return will make the game speed up or slow down
+ - Window and grid size can be modified without interfering with each other
+ - The block/wall generation can be modified (the function(s) I made have some configuration options)
+ 
+ Through playing with these options the requirements are fulfilled. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Self advertisement below! (read or not, I just wanted to say/show that I make python stuff for YouTube videos)
+ 
+ 
+ A lil' ol' New Zealand nerd: https://www.youtube.com/channel/UCIPDNUp-8LnE153FRSSraPA
+ 
+ PS. I love your work
